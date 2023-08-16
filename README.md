@@ -22,12 +22,13 @@ Users should be able to:
 
 ### Screenshot
 
+![image](https://github.com/Prajwaljain20/Frontend-Mentor-four-card-feature/assets/76695932/20dc918c-5802-4901-88d4-f576bb35aa24)
 
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [Github](https://github.com/Prajwaljain20/Frontend-Mentor-four-card-feature)
+- Live Site URL: [Github pages](https://prajwaljain20.github.io/Frontend-Mentor-four-card-feature/)
 
 ## My process
 
